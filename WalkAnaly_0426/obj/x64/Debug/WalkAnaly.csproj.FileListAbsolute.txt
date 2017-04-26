@@ -1,0 +1,141 @@
+c:\users\user\documents\visual studio 2012\Projects\WalkAnaly\bin\x64\Debug\WalkAnaly.exe.config
+c:\users\user\documents\visual studio 2012\Projects\WalkAnaly\bin\x64\Debug\WalkAnaly.exe
+c:\users\user\documents\visual studio 2012\Projects\WalkAnaly\bin\x64\Debug\WalkAnaly.pdb
+c:\users\user\documents\visual studio 2012\Projects\WalkAnaly\bin\x64\Debug\dlltest.dll
+c:\users\user\documents\visual studio 2012\Projects\WalkAnaly\bin\x64\Debug\InTheHand.Net.Personal.dll
+c:\users\user\documents\visual studio 2012\Projects\WalkAnaly\bin\x64\Debug\ManagedWifi.dll
+c:\users\user\documents\visual studio 2012\Projects\WalkAnaly\bin\x64\Debug\Newtonsoft.Json.dll
+c:\users\user\documents\visual studio 2012\Projects\WalkAnaly\bin\x64\Debug\dlltest.xml
+c:\users\user\documents\visual studio 2012\Projects\WalkAnaly\bin\x64\Debug\InTheHand.Net.Personal.xml
+c:\users\user\documents\visual studio 2012\Projects\WalkAnaly\bin\x64\Debug\Newtonsoft.Json.xml
+c:\users\user\documents\visual studio 2012\Projects\WalkAnaly\obj\x64\Debug\WalkAnaly.Form1.resources
+c:\users\user\documents\visual studio 2012\Projects\WalkAnaly\obj\x64\Debug\WalkAnaly.Properties.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\WalkAnaly\obj\x64\Debug\WalkAnaly.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\WalkAnaly\obj\x64\Debug\WalkAnaly.exe
+c:\users\user\documents\visual studio 2012\Projects\WalkAnaly\obj\x64\Debug\WalkAnaly.pdb
+c:\users\user\documents\visual studio 2012\Projects\WalkAnaly\obj\x64\Debug\WalkAnaly.csprojResolveAssemblyReference.cache
+G:\處理影像(新研究版)\WalkAnaly\bin\x64\Debug\WalkAnaly.exe.config
+G:\處理影像(新研究版)\WalkAnaly\obj\x64\Debug\WalkAnaly.exe
+G:\處理影像(新研究版)\WalkAnaly\obj\x64\Debug\WalkAnaly.pdb
+D:\Users\User\Desktop\產學整合\處理影像(新研究版)\WalkAnaly\bin\x64\Debug\WalkAnaly.exe.config
+D:\Users\User\Desktop\產學整合\處理影像(新研究版)\WalkAnaly\obj\x64\Debug\WalkAnaly.exe
+D:\Users\User\Desktop\產學整合\處理影像(新研究版)\WalkAnaly\obj\x64\Debug\WalkAnaly.pdb
+D:\Users\User\Desktop\產學整合\處理影像(新研究版)\WalkAnaly\bin\x64\Debug\WalkAnaly.exe
+D:\Users\User\Desktop\產學整合\處理影像(新研究版)\WalkAnaly\bin\x64\Debug\WalkAnaly.pdb
+D:\Users\User\Desktop\產學整合\處理影像(新研究版)\WalkAnaly\bin\x64\Debug\dlltest.xml
+D:\Users\User\Desktop\產學整合\處理影像(新研究版)\WalkAnaly\bin\x64\Debug\InTheHand.Net.Personal.xml
+D:\Users\User\Desktop\產學整合\處理影像(新研究版)\WalkAnaly\bin\x64\Debug\Newtonsoft.Json.xml
+D:\Users\User\Desktop\產學整合\處理影像(新研究版)\WalkAnaly\obj\x64\Debug\WalkAnaly.csprojResolveAssemblyReference.cache
+D:\Users\User\Desktop\產學整合\處理影像(新研究版)\WalkAnaly\obj\x64\Debug\WalkAnaly.Form1.resources
+D:\Users\User\Desktop\產學整合\處理影像(新研究版)\WalkAnaly\obj\x64\Debug\WalkAnaly.Properties.Resources.resources
+D:\Users\User\Desktop\產學整合\處理影像(新研究版)\WalkAnaly\obj\x64\Debug\WalkAnaly.csproj.GenerateResource.Cache
+D:\zhengwei\產學資料\WalkAnaly\bin\x64\Debug\WalkAnaly.exe.config
+D:\zhengwei\產學資料\WalkAnaly\obj\x64\Debug\WalkAnaly.exe
+D:\zhengwei\產學資料\WalkAnaly\obj\x64\Debug\WalkAnaly.pdb
+D:\zhengwei\產學資料\WalkAnaly\bin\x64\Debug\WalkAnaly.exe
+D:\zhengwei\產學資料\WalkAnaly\bin\x64\Debug\WalkAnaly.pdb
+D:\zhengwei\產學資料\WalkAnaly\bin\x64\Debug\dlltest.xml
+D:\zhengwei\產學資料\WalkAnaly\bin\x64\Debug\InTheHand.Net.Personal.xml
+D:\zhengwei\產學資料\WalkAnaly\bin\x64\Debug\Newtonsoft.Json.xml
+D:\zhengwei\產學資料\WalkAnaly\obj\x64\Debug\WalkAnaly.csprojResolveAssemblyReference.cache
+D:\zhengwei\產學資料\WalkAnaly\obj\x64\Debug\WalkAnaly.Form1.resources
+D:\zhengwei\產學資料\WalkAnaly\obj\x64\Debug\WalkAnaly.Properties.Resources.resources
+D:\zhengwei\產學資料\WalkAnaly\obj\x64\Debug\WalkAnaly.csproj.GenerateResource.Cache
+D:\產學資料\WalkAnaly\bin\x64\Debug\WalkAnaly.exe.config
+D:\產學資料\WalkAnaly\bin\x64\Debug\WalkAnaly.exe
+D:\產學資料\WalkAnaly\bin\x64\Debug\WalkAnaly.pdb
+D:\產學資料\WalkAnaly\bin\x64\Debug\dlltest.dll
+D:\產學資料\WalkAnaly\bin\x64\Debug\InTheHand.Net.Personal.dll
+D:\產學資料\WalkAnaly\bin\x64\Debug\ManagedWifi.dll
+D:\產學資料\WalkAnaly\bin\x64\Debug\Newtonsoft.Json.dll
+D:\產學資料\WalkAnaly\bin\x64\Debug\dlltest.xml
+D:\產學資料\WalkAnaly\bin\x64\Debug\InTheHand.Net.Personal.xml
+D:\產學資料\WalkAnaly\bin\x64\Debug\Newtonsoft.Json.xml
+D:\產學資料\WalkAnaly\obj\x64\Debug\WalkAnaly.csprojResolveAssemblyReference.cache
+D:\產學資料\WalkAnaly\obj\x64\Debug\WalkAnaly.Form1.resources
+D:\產學資料\WalkAnaly\obj\x64\Debug\WalkAnaly.Properties.Resources.resources
+D:\產學資料\WalkAnaly\obj\x64\Debug\WalkAnaly.csproj.GenerateResource.Cache
+D:\產學資料\WalkAnaly\obj\x64\Debug\WalkAnaly.exe
+D:\產學資料\WalkAnaly\obj\x64\Debug\WalkAnaly.pdb
+D:\zhengwei\產學資料\WalkAnaly_0412\bin\x64\Debug\WalkAnaly.exe.config
+D:\zhengwei\產學資料\WalkAnaly_0412\bin\x64\Debug\WalkAnaly.exe
+D:\zhengwei\產學資料\WalkAnaly_0412\bin\x64\Debug\WalkAnaly.pdb
+D:\zhengwei\產學資料\WalkAnaly_0412\bin\x64\Debug\dlltest.dll
+D:\zhengwei\產學資料\WalkAnaly_0412\bin\x64\Debug\dlltest.xml
+D:\zhengwei\產學資料\WalkAnaly_0412\bin\x64\Debug\InTheHand.Net.Personal.xml
+D:\zhengwei\產學資料\WalkAnaly_0412\bin\x64\Debug\Newtonsoft.Json.xml
+D:\zhengwei\產學資料\WalkAnaly_0412\obj\x64\Debug\WalkAnaly.csprojResolveAssemblyReference.cache
+D:\zhengwei\產學資料\WalkAnaly_0412\obj\x64\Debug\WalkAnaly.Form1.resources
+D:\zhengwei\產學資料\WalkAnaly_0412\obj\x64\Debug\WalkAnaly.Properties.Resources.resources
+D:\zhengwei\產學資料\WalkAnaly_0412\obj\x64\Debug\WalkAnaly.csproj.GenerateResource.Cache
+D:\zhengwei\產學資料\WalkAnaly_0412\obj\x64\Debug\WalkAnaly.exe
+D:\zhengwei\產學資料\WalkAnaly_0412\obj\x64\Debug\WalkAnaly.pdb
+D:\zhengwei\產學資料\WalkAnaly_0412\bin\x64\Debug\MWArray.dll
+D:\zhengwei\產學資料\WalkAnaly_0413\bin\x64\Debug\WalkAnaly.exe.config
+D:\zhengwei\產學資料\WalkAnaly_0413\bin\x64\Debug\WalkAnaly.exe
+D:\zhengwei\產學資料\WalkAnaly_0413\bin\x64\Debug\WalkAnaly.pdb
+D:\zhengwei\產學資料\WalkAnaly_0413\bin\x64\Debug\dlltest.dll
+D:\zhengwei\產學資料\WalkAnaly_0413\bin\x64\Debug\MWArray.dll
+D:\zhengwei\產學資料\WalkAnaly_0413\bin\x64\Debug\dlltest.xml
+D:\zhengwei\產學資料\WalkAnaly_0413\bin\x64\Debug\InTheHand.Net.Personal.xml
+D:\zhengwei\產學資料\WalkAnaly_0413\bin\x64\Debug\Newtonsoft.Json.xml
+D:\zhengwei\產學資料\WalkAnaly_0413\obj\x64\Debug\WalkAnaly.csprojResolveAssemblyReference.cache
+D:\zhengwei\產學資料\WalkAnaly_0413\obj\x64\Debug\WalkAnaly.Form1.resources
+D:\zhengwei\產學資料\WalkAnaly_0413\obj\x64\Debug\WalkAnaly.Properties.Resources.resources
+D:\zhengwei\產學資料\WalkAnaly_0413\obj\x64\Debug\WalkAnaly.csproj.GenerateResource.Cache
+D:\zhengwei\產學資料\WalkAnaly_0413\obj\x64\Debug\WalkAnaly.exe
+D:\zhengwei\產學資料\WalkAnaly_0413\obj\x64\Debug\WalkAnaly.pdb
+D:\產學資料\WalkAnaly_0414(timer)\bin\x64\Debug\WalkAnaly.exe.config
+D:\產學資料\WalkAnaly_0414(timer)\bin\x64\Debug\WalkAnaly.exe
+D:\產學資料\WalkAnaly_0414(timer)\bin\x64\Debug\WalkAnaly.pdb
+D:\產學資料\WalkAnaly_0414(timer)\bin\x64\Debug\dlltest.dll
+D:\產學資料\WalkAnaly_0414(timer)\bin\x64\Debug\InTheHand.Net.Personal.dll
+D:\產學資料\WalkAnaly_0414(timer)\bin\x64\Debug\ManagedWifi.dll
+D:\產學資料\WalkAnaly_0414(timer)\bin\x64\Debug\MWArray.dll
+D:\產學資料\WalkAnaly_0414(timer)\bin\x64\Debug\Newtonsoft.Json.dll
+D:\產學資料\WalkAnaly_0414(timer)\bin\x64\Debug\dlltest.xml
+D:\產學資料\WalkAnaly_0414(timer)\bin\x64\Debug\InTheHand.Net.Personal.xml
+D:\產學資料\WalkAnaly_0414(timer)\bin\x64\Debug\MWArray.xml
+D:\產學資料\WalkAnaly_0414(timer)\bin\x64\Debug\Newtonsoft.Json.xml
+D:\產學資料\WalkAnaly_0414(timer)\obj\x64\Debug\WalkAnaly.csprojResolveAssemblyReference.cache
+D:\產學資料\WalkAnaly_0414(timer)\obj\x64\Debug\WalkAnaly.Form1.resources
+D:\產學資料\WalkAnaly_0414(timer)\obj\x64\Debug\WalkAnaly.Properties.Resources.resources
+D:\產學資料\WalkAnaly_0414(timer)\obj\x64\Debug\WalkAnaly.csproj.GenerateResource.Cache
+D:\產學資料\WalkAnaly_0414(timer)\obj\x64\Debug\WalkAnaly.exe
+D:\產學資料\WalkAnaly_0414(timer)\obj\x64\Debug\WalkAnaly.pdb
+D:\產學資料\WalkAnaly_0419(timer)\bin\x64\Debug\WalkAnaly.exe.config
+D:\產學資料\WalkAnaly_0419(timer)\bin\x64\Debug\WalkAnaly.exe
+D:\產學資料\WalkAnaly_0419(timer)\bin\x64\Debug\WalkAnaly.pdb
+D:\產學資料\WalkAnaly_0419(timer)\bin\x64\Debug\dlltest.dll
+D:\產學資料\WalkAnaly_0419(timer)\bin\x64\Debug\InTheHand.Net.Personal.dll
+D:\產學資料\WalkAnaly_0419(timer)\bin\x64\Debug\ManagedWifi.dll
+D:\產學資料\WalkAnaly_0419(timer)\bin\x64\Debug\MWArray.dll
+D:\產學資料\WalkAnaly_0419(timer)\bin\x64\Debug\Newtonsoft.Json.dll
+D:\產學資料\WalkAnaly_0419(timer)\bin\x64\Debug\dlltest.xml
+D:\產學資料\WalkAnaly_0419(timer)\bin\x64\Debug\InTheHand.Net.Personal.xml
+D:\產學資料\WalkAnaly_0419(timer)\bin\x64\Debug\MWArray.xml
+D:\產學資料\WalkAnaly_0419(timer)\bin\x64\Debug\Newtonsoft.Json.xml
+D:\產學資料\WalkAnaly_0419(timer)\obj\x64\Debug\WalkAnaly.csprojResolveAssemblyReference.cache
+D:\產學資料\WalkAnaly_0419(timer)\obj\x64\Debug\WalkAnaly.Form1.resources
+D:\產學資料\WalkAnaly_0419(timer)\obj\x64\Debug\WalkAnaly.Properties.Resources.resources
+D:\產學資料\WalkAnaly_0419(timer)\obj\x64\Debug\WalkAnaly.csproj.GenerateResource.Cache
+D:\產學資料\WalkAnaly_0419(timer)\obj\x64\Debug\WalkAnaly.exe
+D:\產學資料\WalkAnaly_0419(timer)\obj\x64\Debug\WalkAnaly.pdb
+D:\產學資料\WalkAnaly_0424(2BT)\bin\x64\Debug\WalkAnaly.exe.config
+D:\產學資料\WalkAnaly_0424(2BT)\bin\x64\Debug\WalkAnaly.exe
+D:\產學資料\WalkAnaly_0424(2BT)\bin\x64\Debug\WalkAnaly.pdb
+D:\產學資料\WalkAnaly_0424(2BT)\bin\x64\Debug\dlltest.dll
+D:\產學資料\WalkAnaly_0424(2BT)\bin\x64\Debug\InTheHand.Net.Personal.dll
+D:\產學資料\WalkAnaly_0424(2BT)\bin\x64\Debug\ManagedWifi.dll
+D:\產學資料\WalkAnaly_0424(2BT)\bin\x64\Debug\MWArray.dll
+D:\產學資料\WalkAnaly_0424(2BT)\bin\x64\Debug\Newtonsoft.Json.dll
+D:\產學資料\WalkAnaly_0424(2BT)\bin\x64\Debug\dlltest.xml
+D:\產學資料\WalkAnaly_0424(2BT)\bin\x64\Debug\InTheHand.Net.Personal.xml
+D:\產學資料\WalkAnaly_0424(2BT)\bin\x64\Debug\MWArray.xml
+D:\產學資料\WalkAnaly_0424(2BT)\bin\x64\Debug\Newtonsoft.Json.xml
+D:\產學資料\WalkAnaly_0424(2BT)\obj\x64\Debug\WalkAnaly.csprojResolveAssemblyReference.cache
+D:\產學資料\WalkAnaly_0424(2BT)\obj\x64\Debug\WalkAnaly.Form1.resources
+D:\產學資料\WalkAnaly_0424(2BT)\obj\x64\Debug\WalkAnaly.Properties.Resources.resources
+D:\產學資料\WalkAnaly_0424(2BT)\obj\x64\Debug\WalkAnaly.csproj.GenerateResource.Cache
+D:\產學資料\WalkAnaly_0424(2BT)\obj\x64\Debug\WalkAnaly.exe
+D:\產學資料\WalkAnaly_0424(2BT)\obj\x64\Debug\WalkAnaly.pdb

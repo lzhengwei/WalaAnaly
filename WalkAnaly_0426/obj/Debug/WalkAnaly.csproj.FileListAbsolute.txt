@@ -1,0 +1,15 @@
+c:\users\user\documents\visual studio 2012\Projects\WalkAnaly\obj\Debug\WalkAnaly.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\WalkAnaly\obj\Debug\WalkAnaly.Properties.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\WalkAnaly\obj\Debug\WalkAnaly.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\WalkAnaly\bin\Debug\WalkAnaly.exe
+c:\users\user\documents\visual studio 2012\Projects\WalkAnaly\bin\Debug\WalkAnaly.pdb
+c:\users\user\documents\visual studio 2012\Projects\WalkAnaly\bin\Debug\dlltest.dll
+c:\users\user\documents\visual studio 2012\Projects\WalkAnaly\bin\Debug\InTheHand.Net.Personal.dll
+c:\users\user\documents\visual studio 2012\Projects\WalkAnaly\bin\Debug\ManagedWifi.dll
+c:\users\user\documents\visual studio 2012\Projects\WalkAnaly\bin\Debug\Newtonsoft.Json.dll
+c:\users\user\documents\visual studio 2012\Projects\WalkAnaly\bin\Debug\dlltest.xml
+c:\users\user\documents\visual studio 2012\Projects\WalkAnaly\bin\Debug\InTheHand.Net.Personal.xml
+c:\users\user\documents\visual studio 2012\Projects\WalkAnaly\bin\Debug\Newtonsoft.Json.xml
+c:\users\user\documents\visual studio 2012\Projects\WalkAnaly\obj\Debug\WalkAnaly.Form1.resources
+c:\users\user\documents\visual studio 2012\Projects\WalkAnaly\obj\Debug\WalkAnaly.exe
+c:\users\user\documents\visual studio 2012\Projects\WalkAnaly\obj\Debug\WalkAnaly.pdb

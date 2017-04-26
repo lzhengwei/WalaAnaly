@@ -1,0 +1,317 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>dlltest</name>
+    </assembly>
+    <members>
+        <member name="T:dlltest.ButterWorth">
+            <summary>
+            The ButterWorth class provides a CLS compliant, MWArray interface to the MATLAB
+            functions contained in the files:
+            <newpara></newpara>
+            D:\產學資料\WalkAnaly\myfunc.m
+            <newpara></newpara>
+            deployprint.m
+            <newpara></newpara>
+            printdlg.m
+            </summary>
+            <remarks>
+            @Version 4.0
+            </remarks>
+        </member>
+        <member name="M:dlltest.ButterWorth.#cctor">
+            <summary internal= "true">
+            The static constructor instantiates and initializes the MATLAB Compiler Runtime
+            instance.
+            </summary>
+        </member>
+        <member name="M:dlltest.ButterWorth.#ctor">
+            <summary>
+            Constructs a new instance of the ButterWorth class.
+            </summary>
+        </member>
+        <member name="M:dlltest.ButterWorth.Finalize">
+            <summary internal= "true">
+            Class destructor called by the CLR garbage collector.
+            </summary>
+        </member>
+        <member name="M:dlltest.ButterWorth.Dispose">
+            <summary>
+            Frees the native resources associated with this object
+            </summary>
+        </member>
+        <member name="M:dlltest.ButterWorth.Dispose(System.Boolean)">
+            <summary internal= "true">
+            Internal dispose function
+            </summary>
+        </member>
+        <member name="M:dlltest.ButterWorth.myfunc">
+             <summary>
+             Provides a single output, 0-input MWArrayinterface to the myfunc MATLAB function.
+             </summary>
+             <remarks>
+             M-Documentation:
+             ====== 巴特沃斯濾波器 ======
+             [b, a] = butter(filterOrder, [1/(50/2) 2/(50/2)]);    低通1/(50/2)，高通2/(50/2)
+             [b, a] = butter(filterOrder, [15/(120/2)], 'low');
+             y = filter(b, a, data);
+             c = data;
+             d = y;
+             </remarks>
+             <returns>An MWArray containing the first output argument.</returns>
+            
+        </member>
+        <member name="M:dlltest.ButterWorth.myfunc(MathWorks.MATLAB.NET.Arrays.MWArray)">
+             <summary>
+             Provides a single output, 1-input MWArrayinterface to the myfunc MATLAB function.
+             </summary>
+             <remarks>
+             M-Documentation:
+             ====== 巴特沃斯濾波器 ======
+             [b, a] = butter(filterOrder, [1/(50/2) 2/(50/2)]);    低通1/(50/2)，高通2/(50/2)
+             [b, a] = butter(filterOrder, [15/(120/2)], 'low');
+             y = filter(b, a, data);
+             c = data;
+             d = y;
+             </remarks>
+             <param name="infilename">Input argument #1</param>
+             <returns>An MWArray containing the first output argument.</returns>
+            
+        </member>
+        <member name="M:dlltest.ButterWorth.myfunc(MathWorks.MATLAB.NET.Arrays.MWArray,MathWorks.MATLAB.NET.Arrays.MWArray)">
+             <summary>
+             Provides a single output, 2-input MWArrayinterface to the myfunc MATLAB function.
+             </summary>
+             <remarks>
+             M-Documentation:
+             ====== 巴特沃斯濾波器 ======
+             [b, a] = butter(filterOrder, [1/(50/2) 2/(50/2)]);    低通1/(50/2)，高通2/(50/2)
+             [b, a] = butter(filterOrder, [15/(120/2)], 'low');
+             y = filter(b, a, data);
+             c = data;
+             d = y;
+             </remarks>
+             <param name="infilename">Input argument #1</param>
+             <param name="outfilename">Input argument #2</param>
+             <returns>An MWArray containing the first output argument.</returns>
+            
+        </member>
+        <member name="M:dlltest.ButterWorth.myfunc(MathWorks.MATLAB.NET.Arrays.MWArray,MathWorks.MATLAB.NET.Arrays.MWArray,MathWorks.MATLAB.NET.Arrays.MWArray)">
+             <summary>
+             Provides a single output, 3-input MWArrayinterface to the myfunc MATLAB function.
+             </summary>
+             <remarks>
+             M-Documentation:
+             ====== 巴特沃斯濾波器 ======
+             [b, a] = butter(filterOrder, [1/(50/2) 2/(50/2)]);    低通1/(50/2)，高通2/(50/2)
+             [b, a] = butter(filterOrder, [15/(120/2)], 'low');
+             y = filter(b, a, data);
+             c = data;
+             d = y;
+             </remarks>
+             <param name="infilename">Input argument #1</param>
+             <param name="outfilename">Input argument #2</param>
+             <param name="filterOrder">Input argument #3</param>
+             <returns>An MWArray containing the first output argument.</returns>
+            
+        </member>
+        <member name="M:dlltest.ButterWorth.myfunc(MathWorks.MATLAB.NET.Arrays.MWArray,MathWorks.MATLAB.NET.Arrays.MWArray,MathWorks.MATLAB.NET.Arrays.MWArray,MathWorks.MATLAB.NET.Arrays.MWArray)">
+             <summary>
+             Provides a single output, 4-input MWArrayinterface to the myfunc MATLAB function.
+             </summary>
+             <remarks>
+             M-Documentation:
+             ====== 巴特沃斯濾波器 ======
+             [b, a] = butter(filterOrder, [1/(50/2) 2/(50/2)]);    低通1/(50/2)，高通2/(50/2)
+             [b, a] = butter(filterOrder, [15/(120/2)], 'low');
+             y = filter(b, a, data);
+             c = data;
+             d = y;
+             </remarks>
+             <param name="infilename">Input argument #1</param>
+             <param name="outfilename">Input argument #2</param>
+             <param name="filterOrder">Input argument #3</param>
+             <param name="Lawpass">Input argument #4</param>
+             <returns>An MWArray containing the first output argument.</returns>
+            
+        </member>
+        <member name="M:dlltest.ButterWorth.myfunc(MathWorks.MATLAB.NET.Arrays.MWArray,MathWorks.MATLAB.NET.Arrays.MWArray,MathWorks.MATLAB.NET.Arrays.MWArray,MathWorks.MATLAB.NET.Arrays.MWArray,MathWorks.MATLAB.NET.Arrays.MWArray)">
+             <summary>
+             Provides a single output, 5-input MWArrayinterface to the myfunc MATLAB function.
+             </summary>
+             <remarks>
+             M-Documentation:
+             ====== 巴特沃斯濾波器 ======
+             [b, a] = butter(filterOrder, [1/(50/2) 2/(50/2)]);    低通1/(50/2)，高通2/(50/2)
+             [b, a] = butter(filterOrder, [15/(120/2)], 'low');
+             y = filter(b, a, data);
+             c = data;
+             d = y;
+             </remarks>
+             <param name="infilename">Input argument #1</param>
+             <param name="outfilename">Input argument #2</param>
+             <param name="filterOrder">Input argument #3</param>
+             <param name="Lawpass">Input argument #4</param>
+             <param name="Highpass">Input argument #5</param>
+             <returns>An MWArray containing the first output argument.</returns>
+            
+        </member>
+        <member name="M:dlltest.ButterWorth.myfunc(System.Int32)">
+             <summary>
+             Provides the standard 0-input MWArray interface to the myfunc MATLAB function.
+             </summary>
+             <remarks>
+             M-Documentation:
+             ====== 巴特沃斯濾波器 ======
+             [b, a] = butter(filterOrder, [1/(50/2) 2/(50/2)]);    低通1/(50/2)，高通2/(50/2)
+             [b, a] = butter(filterOrder, [15/(120/2)], 'low');
+             y = filter(b, a, data);
+             c = data;
+             d = y;
+             </remarks>
+             <param name="numArgsOut">The number of output arguments to return.</param>
+             <returns>An Array of length "numArgsOut" containing the output
+             arguments.</returns>
+            
+        </member>
+        <member name="M:dlltest.ButterWorth.myfunc(System.Int32,MathWorks.MATLAB.NET.Arrays.MWArray)">
+             <summary>
+             Provides the standard 1-input MWArray interface to the myfunc MATLAB function.
+             </summary>
+             <remarks>
+             M-Documentation:
+             ====== 巴特沃斯濾波器 ======
+             [b, a] = butter(filterOrder, [1/(50/2) 2/(50/2)]);    低通1/(50/2)，高通2/(50/2)
+             [b, a] = butter(filterOrder, [15/(120/2)], 'low');
+             y = filter(b, a, data);
+             c = data;
+             d = y;
+             </remarks>
+             <param name="numArgsOut">The number of output arguments to return.</param>
+             <param name="infilename">Input argument #1</param>
+             <returns>An Array of length "numArgsOut" containing the output
+             arguments.</returns>
+            
+        </member>
+        <member name="M:dlltest.ButterWorth.myfunc(System.Int32,MathWorks.MATLAB.NET.Arrays.MWArray,MathWorks.MATLAB.NET.Arrays.MWArray)">
+             <summary>
+             Provides the standard 2-input MWArray interface to the myfunc MATLAB function.
+             </summary>
+             <remarks>
+             M-Documentation:
+             ====== 巴特沃斯濾波器 ======
+             [b, a] = butter(filterOrder, [1/(50/2) 2/(50/2)]);    低通1/(50/2)，高通2/(50/2)
+             [b, a] = butter(filterOrder, [15/(120/2)], 'low');
+             y = filter(b, a, data);
+             c = data;
+             d = y;
+             </remarks>
+             <param name="numArgsOut">The number of output arguments to return.</param>
+             <param name="infilename">Input argument #1</param>
+             <param name="outfilename">Input argument #2</param>
+             <returns>An Array of length "numArgsOut" containing the output
+             arguments.</returns>
+            
+        </member>
+        <member name="M:dlltest.ButterWorth.myfunc(System.Int32,MathWorks.MATLAB.NET.Arrays.MWArray,MathWorks.MATLAB.NET.Arrays.MWArray,MathWorks.MATLAB.NET.Arrays.MWArray)">
+             <summary>
+             Provides the standard 3-input MWArray interface to the myfunc MATLAB function.
+             </summary>
+             <remarks>
+             M-Documentation:
+             ====== 巴特沃斯濾波器 ======
+             [b, a] = butter(filterOrder, [1/(50/2) 2/(50/2)]);    低通1/(50/2)，高通2/(50/2)
+             [b, a] = butter(filterOrder, [15/(120/2)], 'low');
+             y = filter(b, a, data);
+             c = data;
+             d = y;
+             </remarks>
+             <param name="numArgsOut">The number of output arguments to return.</param>
+             <param name="infilename">Input argument #1</param>
+             <param name="outfilename">Input argument #2</param>
+             <param name="filterOrder">Input argument #3</param>
+             <returns>An Array of length "numArgsOut" containing the output
+             arguments.</returns>
+            
+        </member>
+        <member name="M:dlltest.ButterWorth.myfunc(System.Int32,MathWorks.MATLAB.NET.Arrays.MWArray,MathWorks.MATLAB.NET.Arrays.MWArray,MathWorks.MATLAB.NET.Arrays.MWArray,MathWorks.MATLAB.NET.Arrays.MWArray)">
+             <summary>
+             Provides the standard 4-input MWArray interface to the myfunc MATLAB function.
+             </summary>
+             <remarks>
+             M-Documentation:
+             ====== 巴特沃斯濾波器 ======
+             [b, a] = butter(filterOrder, [1/(50/2) 2/(50/2)]);    低通1/(50/2)，高通2/(50/2)
+             [b, a] = butter(filterOrder, [15/(120/2)], 'low');
+             y = filter(b, a, data);
+             c = data;
+             d = y;
+             </remarks>
+             <param name="numArgsOut">The number of output arguments to return.</param>
+             <param name="infilename">Input argument #1</param>
+             <param name="outfilename">Input argument #2</param>
+             <param name="filterOrder">Input argument #3</param>
+             <param name="Lawpass">Input argument #4</param>
+             <returns>An Array of length "numArgsOut" containing the output
+             arguments.</returns>
+            
+        </member>
+        <member name="M:dlltest.ButterWorth.myfunc(System.Int32,MathWorks.MATLAB.NET.Arrays.MWArray,MathWorks.MATLAB.NET.Arrays.MWArray,MathWorks.MATLAB.NET.Arrays.MWArray,MathWorks.MATLAB.NET.Arrays.MWArray,MathWorks.MATLAB.NET.Arrays.MWArray)">
+             <summary>
+             Provides the standard 5-input MWArray interface to the myfunc MATLAB function.
+             </summary>
+             <remarks>
+             M-Documentation:
+             ====== 巴特沃斯濾波器 ======
+             [b, a] = butter(filterOrder, [1/(50/2) 2/(50/2)]);    低通1/(50/2)，高通2/(50/2)
+             [b, a] = butter(filterOrder, [15/(120/2)], 'low');
+             y = filter(b, a, data);
+             c = data;
+             d = y;
+             </remarks>
+             <param name="numArgsOut">The number of output arguments to return.</param>
+             <param name="infilename">Input argument #1</param>
+             <param name="outfilename">Input argument #2</param>
+             <param name="filterOrder">Input argument #3</param>
+             <param name="Lawpass">Input argument #4</param>
+             <param name="Highpass">Input argument #5</param>
+             <returns>An Array of length "numArgsOut" containing the output
+             arguments.</returns>
+            
+        </member>
+        <member name="M:dlltest.ButterWorth.myfunc(System.Int32,MathWorks.MATLAB.NET.Arrays.MWArray[]@,MathWorks.MATLAB.NET.Arrays.MWArray[])">
+             <summary>
+             Provides an interface for the myfunc function in which the input and output
+             arguments are specified as an array of MWArrays.
+             </summary>
+             <remarks>
+             This method will allocate and return by reference the output argument
+             array.<newpara></newpara>
+             M-Documentation:
+             ====== 巴特沃斯濾波器 ======
+             [b, a] = butter(filterOrder, [1/(50/2) 2/(50/2)]);    低通1/(50/2)，高通2/(50/2)
+             [b, a] = butter(filterOrder, [15/(120/2)], 'low');
+             y = filter(b, a, data);
+             c = data;
+             d = y;
+             </remarks>
+             <param name="numArgsOut">The number of output arguments to return</param>
+             <param name= "argsOut">Array of MWArray output arguments</param>
+             <param name= "argsIn">Array of MWArray input arguments</param>
+            
+        </member>
+        <member name="M:dlltest.ButterWorth.WaitForFiguresToDie">
+             <summary>
+             This method will cause a MATLAB figure window to behave as a modal dialog box.
+             The method will not return until all the figure windows associated with this
+             component have been closed.
+             </summary>
+             <remarks>
+             An application should only call this method when required to keep the
+             MATLAB figure window from disappearing.  Other techniques, such as calling
+             Console.ReadLine() from the application should be considered where
+             possible.</remarks>
+            
+        </member>
+    </members>
+</doc>
